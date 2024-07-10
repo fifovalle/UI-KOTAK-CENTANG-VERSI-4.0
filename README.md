@@ -20,7 +20,7 @@ Jelajahi karya terbaru dan keterampilan saya dalam dunia pengembangan perangkat 
 
 Berikut adalah beberapa tampilan halaman website :
 
-![Screenshot 2024-07-10 134630](https://github.com/fifovalle/UI-KOTAK-CENTANG-VERSI-2.0/assets/90078068/49c2ef60-b72d-4c3c-a12d-bcb8472cd502)
+![Screenshot 2024-07-10 135914](https://github.com/fifovalle/UI-KOTAK-CENTANG-VERSI-4.0/assets/90078068/c9ccbf09-f4bf-4dd4-bfb4-4f2d9a1f25ec)
 
 ## 📬 Kontak
 
@@ -35,7 +35,7 @@ Kontribusi dan umpan balik dari komunitas sangat dihargai. Jika Anda ingin berko
 1. Clone repositori ini ke direktori web server Anda.
 
    ```
-   git clone https://github.com/fifovalle/UI-KOTAK-CENTANG-VERSI-2.0.git
+   git clone https://github.com/fifovalle/UI-KOTAK-CENTANG-VERSI-4.0.git
 
    ```
 
